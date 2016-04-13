@@ -1,1 +1,2 @@
-r script
+#r script
+data <- open.csv("data/dataset")
