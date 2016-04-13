@@ -1,3 +1,4 @@
 # for git to ignore
 
 .Rapp.history
+output/
