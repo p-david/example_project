@@ -2,3 +2,4 @@
 
 .Rapp.history
 output/
+.DS_Store
